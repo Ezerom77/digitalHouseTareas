@@ -1,0 +1,27 @@
+[
+  {
+    "Código": "1",
+    "Titulo": "Ejercitar",
+    "Estado": "Terminado"
+  },
+  {
+    "Código": "2",
+    "Titulo": "Trabajar",
+    "Estado": "Pendiente"
+  },
+  {
+    "Código": "3",
+    "Titulo": "Entrenar",
+    "Estado": "Pendiente"
+  },
+  {
+    "Código": "4",
+    "Titulo": "Dormir",
+    "Estado": "Terminado"
+  },
+  {
+    "Código": "5",
+    "Titulo": "Cocinar",
+    "Estado": "En Progreso"
+  }
+]
